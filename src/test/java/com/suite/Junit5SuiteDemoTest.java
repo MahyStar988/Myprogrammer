@@ -32,5 +32,5 @@ import org.junit.runner.RunWith;
     "testdemo1"
 })
 public class Junit5SuiteDemoTest {
-    souyt
+    souyt;
 }
