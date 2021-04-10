@@ -1,0 +1,6 @@
+2021-04-06 11:40:19  - [ DEBUG ]  com.testcaseinfo.testcase.Junit5Demo1Test.BeforeAll(Junit5Demo1Test.java:21) java.lang.Class main - BeforeAll 
+ 2021-04-06 11:40:19  - [ DEBUG ]  com.testcaseinfo.testcase.Junit5Demo1Test.BeforeEach(Junit5Demo1Test.java:25) java.lang.Class main - BeforeEach 
+ 2021-04-06 11:40:19  - [ DEBUG ]  com.testcaseinfo.testcase.Junit5Demo1Test.fun1(Junit5Demo1Test.java:32) java.lang.Class main - fun1 
+ 2021-04-06 11:40:19  - [ DEBUG ]  com.testcaseinfo.testcase.Junit5Demo1Test.AfterEach(Junit5Demo1Test.java:48) java.lang.Class main - AfterEach 
+ 2021-04-06 11:40:19  - [ DEBUG ]  com.testcaseinfo.testcase.Junit5Demo1Test.AfterAll(Junit5Demo1Test.java:52) java.lang.Class main - AfterAll 
+ 
